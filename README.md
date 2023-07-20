@@ -6,7 +6,9 @@
 ### tecnologías que manejo 💻
 
 <hr>
-
+<p align="center" width="300">
+   <span align="center">Me puedes encontrar aquí 👇</span>
+</p>
    <p align="center">
         <a href="https://danidev.me/"
         ><img
