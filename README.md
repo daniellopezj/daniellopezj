@@ -12,7 +12,7 @@
    <p align="center">
         <a href="https://danidev.me/"
         ><img
-          src="https://img.shields.io/badge/portafolio-%23002970.svg?logo=linkedin"
+          src="https://img.shields.io/badge/portafolio-%23002970.svg"
           height="25" /></a
       >
          
