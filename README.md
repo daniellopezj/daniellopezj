@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <h2 align="center">¡Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! Soy Daniel López 👨🏻‍💻</h2>
+   <h2 align="center">¡Hey 👋! Soy Daniel López </h2>
    <p align="center"> <strong>Desarrollador JavaScript Full Stack</strong> con mas de 4 años experiencia!</p>
 </p>
 
