@@ -5,17 +5,14 @@
 
 ### tecnologías que manejo 💻
 
+
+<hr>
+Puedes ver mis proyectos en https://danidev.me/
 <hr>
 <p align="center" width="300">
    <span align="center">Me puedes encontrar aquí 👇</span>
 </p>
    <p align="center">
-        <a href="https://danidev.me/"
-        ><img
-          src="https://img.shields.io/badge/portafolio-%23002970.svg"
-          height="25" /></a
-      >
-         
       <a href="https://www.linkedin.com/in/dani-dev/"
         ><img
           src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
