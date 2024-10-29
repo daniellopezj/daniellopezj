@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <h2 align="center">¡Hey 👋! Soy Daniel López </h2>
-   <p align="center"> <strong>Desarrollador JavaScript Full Stack</strong> con mas de 4 años experiencia!</p>
+   <p align="center"> <strong>Desarrollador JavaScript Full Stack</strong> con mas de 5 años experiencia!</p>
 </p>
 
 ### tecnologías que manejo 💻
